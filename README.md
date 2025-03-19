@@ -28,7 +28,7 @@ You will need anaconda to install all deep learning packages
 
  - [Install PyTorch](https://pytorch.org/get-started/locally/)
 
-
+Youtube VIdeo Link :https://www.youtube.com/watch?v=nATRPPZ5dGE
 
 
 ## Finally run the following script to test your GPU
